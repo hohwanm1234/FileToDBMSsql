@@ -1,0 +1,7 @@
+ftp.file.log.dir=/home/xconadm/XConnector/FileToDBMssql/DATA
+db.svr.ip=10.182.62.10
+db.svr.port=1433
+db.userId=ifeaihr
+db.userPass=Ggm2020!
+db.svr.dbname=GGMPRE
+gates.name.list=9-1-1_의장공장 TPS1 Door 1 Reader

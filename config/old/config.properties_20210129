@@ -1,0 +1,7 @@
+ftp.file.log.dir=/EAI/xconadm/XConnector/FileToDBMssql/DATA
+db.svr.ip=10.182.13.132
+db.svr.port=1433
+db.userId=ifeaihr
+db.userPass=Ggm2020!
+db.svr.dbname=GGMTOT1
+gates.name.list=6-1-3(S/P-1)－ＩＮ 6-1-3(S/P-1)－ＯＵＴ 6-1-4(S/P-2)－ＩＮ 6-1-4(S/P-2)－ＯＵＴ6-1-5(S/P-3)－ＩＮ 6-1-5(S/P-3)－ＯＵＴ 6-1-6(S/P-4)－ＩＮ 6-1-6(S/P-4)－ＯＵＴ

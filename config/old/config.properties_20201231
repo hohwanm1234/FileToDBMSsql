@@ -1,0 +1,6 @@
+ftp.file.log.dir=d:\\TMP\\cxf\\incremental
+db.svr.ip=localhost
+db.svr.port=1433
+db.userId=ggm
+db.userPass=Ivor6719!
+db.svr.dbname=test
